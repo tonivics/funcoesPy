@@ -1,5 +1,4 @@
 # funcoesPy
-Não interessa pra você, palhaço!
 
 ##geo.py
 
